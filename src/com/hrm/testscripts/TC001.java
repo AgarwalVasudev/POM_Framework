@@ -16,6 +16,7 @@ public static void tc001() throws Exception {
 	Thread.sleep(3000);
 	LogoutPage.logout();
 	BaseClass.closeApplication();
+	System.out.println("Gittttt update");
 }
 
 }
